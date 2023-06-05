@@ -1,0 +1,13 @@
+@ echo off
+start	Chrome-001	--incognito	https://www.youtube.com/watch?v=NcrAuvJP-Wg&list=https://www.youtube.com/@RubenCreates-/playlists
+start	Chrome-002	--incognito	https://www.youtube.com/watch?v=NcrAuvJP-Wg&list=https://www.youtube.com/@RubenCreates-/playlists
+start	Chrome-003	--incognito	https://www.youtube.com/watch?v=NcrAuvJP-Wg&list=https://www.youtube.com/@RubenCreates-/playlists
+start	Chrome-004	--incognito	https://www.youtube.com/watch?v=NcrAuvJP-Wg&list=https://www.youtube.com/@RubenCreates-/playlists
+start	Chrome-005	--incognito	https://www.youtube.com/watch?v=NcrAuvJP-Wg&list=https://www.youtube.com/@RubenCreates-/playlists
+start	Chrome-006	--incognito	https://www.youtube.com/watch?v=NcrAuvJP-Wg&list=https://www.youtube.com/@RubenCreates-/playlists
+start	Chrome-007	--incognito	https://www.youtube.com/watch?v=NcrAuvJP-Wg&list=https://www.youtube.com/@RubenCreates-/playlists
+start	Chrome-008	--incognito	https://www.youtube.com/watch?v=NcrAuvJP-Wg&list=https://www.youtube.com/@RubenCreates-/playlists
+start	Chrome-009	--incognito	https://www.youtube.com/watch?v=NcrAuvJP-Wg&list=https://www.youtube.com/@RubenCreates-/playlists
+start	Chrome-010	--incognito	https://www.youtube.com/watch?v=NcrAuvJP-Wg&list=https://www.youtube.com/@RubenCreates-/playlists
+				
+				
